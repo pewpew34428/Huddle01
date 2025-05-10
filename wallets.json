@@ -2,13 +2,13 @@
   {
     "address": "0x123...",
     "privateKey": "0xabc...",
-    "mnemonic": "recovery phrase...",
+    "mnemonic": "your recovery phrase...",
     "name": "Wallet 1"
   },
   {
     "address": "0x456...",
     "privateKey": "0xdef...",
-    "mnemonic": "recovery phrase...",
+    "mnemonic": "your recovery phrase...",
     "name": "Wallet 2"
   }
 ]
