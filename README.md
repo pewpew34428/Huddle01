@@ -113,13 +113,13 @@ You will be prompted to enter your access key to start the bot.
   {
     "address": "0x123...",
     "privateKey": "0xabc...",
-    "mnemonic": "word1 word1...",
+    "mnemonic": "word1 word2...", # Your Recovery Phrase
     "name": "Wallet 1"
   },
   {
     "address": "0x456...",
     "privateKey": "0xdef...",
-    "mnemonic": "word1 word2...",
+    "mnemonic": "word1 word2...", # Your Recovery Phrase
     "name": "Wallet 2"
   }
 ]
