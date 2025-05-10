@@ -128,6 +128,8 @@ You will be prompted to enter your access key to start the bot.
 ### Example `proxies.txt` Format
 ```
 http://username:password@hostname:port
+http://username:password@hostname:port
+socks5://username:password@hostname:port
 socks5://username:password@hostname:port
 ```
 
